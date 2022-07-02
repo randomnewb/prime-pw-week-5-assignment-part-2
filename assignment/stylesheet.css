@@ -1,15 +1,20 @@
 * {
-    /*<a href="https://www.vecteezy.com/free-vector/fish">Fish Vectors by Vecteezy</a> */
-    background-image: url(free-fish-vectors.jpg);
-    background-size: 50%;
+  /*<a href="https://www.vecteezy.com/free-vector/fish">Fish Vectors by Vecteezy</a> */
+  background-image: url(free-fish-vectors.jpg);
+  background-size: 50%;
 }
 
 header {
-    background-color: darkslategray;
-    color: orange;
-    text-align: center;
+  background-color: darkslategray;
+  color: orange;
+  text-align: center;
 }
 
 main {
-    background-color: lightgray;
+  background-color: lightgray;
+}
+
+body {
+  margin: 0;
+  padding: 1em;
 }
